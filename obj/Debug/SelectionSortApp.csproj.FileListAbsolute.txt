@@ -1,0 +1,6 @@
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\SelectionSortApp\SelectionSortApp\bin\Debug\SelectionSortApp.exe.config
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\SelectionSortApp\SelectionSortApp\bin\Debug\SelectionSortApp.exe
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\SelectionSortApp\SelectionSortApp\bin\Debug\SelectionSortApp.pdb
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\SelectionSortApp\SelectionSortApp\obj\Debug\SelectionSortApp.csprojResolveAssemblyReference.cache
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\SelectionSortApp\SelectionSortApp\obj\Debug\SelectionSortApp.exe
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\SelectionSortApp\SelectionSortApp\obj\Debug\SelectionSortApp.pdb
